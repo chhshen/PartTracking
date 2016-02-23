@@ -1,0 +1,12 @@
+# base path for video sequences.
+sequenceBasePath = sequences
+
+# path for output results file.
+resultsPath = _gt.txt
+
+# video sequence to run the tracker on.
+sequenceName = femaleskater
+
+# frame size for use during tracking.
+frameWidth = 240
+frameHeight = 180
